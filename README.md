@@ -143,7 +143,6 @@ Set
 Tuple
 -----
 **A tuple is an immutable data type**
-**tuples are very useful in development**
 ```python
 <tuple> = ()                               # Empty tuple.
 <tuple> = (<el>,)                          # Or: <el>,
