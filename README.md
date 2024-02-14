@@ -28,6 +28,7 @@ if __name__ == '__main__':      # Runs main() if file wasn't imported.
 
 List
 ----
+**The list has the following methods**
 ```python
 <list> = <list>[<slice>]        # Or: <list>[from_inclusive : to_exclusive : ±step]
 ```
