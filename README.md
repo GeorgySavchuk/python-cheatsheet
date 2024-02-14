@@ -143,6 +143,7 @@ Set
 Tuple
 -----
 **Tuple is data structure in python**
+** tuples are found in almost every code**
 ```python
 <tuple> = ()                               # Empty tuple.
 <tuple> = (<el>,)                          # Or: <el>,
