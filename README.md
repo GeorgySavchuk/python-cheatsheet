@@ -29,6 +29,7 @@ if __name__ == '__main__':      # Runs main() if file wasn't imported.
 List
 ----
 **The list has the following methods**
+**A list is one of the most frequently used data structures**
 ```python
 <list> = <list>[<slice>]        # Or: <list>[from_inclusive : to_exclusive : ±step]
 ```
@@ -42,8 +43,7 @@ List
 <list>.sort()                   # Sorts in ascending order.
 <list>.reverse()                # Reverses the list in-place.
 <list> = sorted(<collection>)   # Returns a new sorted list.
-<iter> = reversed(<list>)       # Returns reversed iterator.
-```
+<iter> = reversed(<list>)       # Returns reversed iterator.```
 
 ```python
 sum_of_elements  = sum(<collection>)
@@ -109,6 +109,7 @@ Counter({'blue': 3, 'red': 2, 'yellow': 1})
 
 Set
 ---
+**the set stores unique elements**
 ```python
 <set> = set()                                   # `{}` returns a dictionary.
 ```
@@ -192,6 +193,7 @@ for i, el in enumerate(<collection> [, i_start]):
 
 Iterator
 --------
+**the iterator helps you navigate through the collection**
 ```python
 <iter> = iter(<collection>)                # `iter(<iter>)` returns unmodified iterator.
 <iter> = iter(<function>, to_exclusive)    # A sequence of return values until 'to_exclusive'.
