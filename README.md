@@ -302,6 +302,7 @@ True
 String
 ------
 **Immutable sequence of characters.**
+**primitive data type**
 
 ```python
 <str>  = <str>.strip()                       # Strips all whitespace characters from both ends.
