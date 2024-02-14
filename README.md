@@ -109,6 +109,7 @@ Counter({'blue': 3, 'red': 2, 'yellow': 1})
 
 Set
 ---
+**the set stores unique elements**
 ```python
 <set> = set()                                   # `{}` returns a dictionary.
 ```
