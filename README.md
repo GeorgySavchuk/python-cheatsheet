@@ -508,6 +508,7 @@ Numbers
 ```
 
 ### Math
+**a set of functions for performing mathematical, trigonometric and logarithmic operations**
 ```python
 from math import e, pi, inf, nan, isinf, isnan    # `<el> == nan` is always False.
 from math import sin, cos, tan, asin, acos, atan  # Also: degrees, radians.
