@@ -142,7 +142,7 @@ Set
 
 Tuple
 -----
-**Tuple is an immutable and hashable list.**
+**Tuple is data structure in python**
 ```python
 <tuple> = ()                               # Empty tuple.
 <tuple> = (<el>,)                          # Or: <el>,
