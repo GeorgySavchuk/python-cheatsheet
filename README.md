@@ -193,6 +193,7 @@ for i, el in enumerate(<collection> [, i_start]):
 
 Iterator
 --------
+**the iterator helps you navigate through the collection**
 ```python
 <iter> = iter(<collection>)                # `iter(<iter>)` returns unmodified iterator.
 <iter> = iter(<function>, to_exclusive)    # A sequence of return values until 'to_exclusive'.
