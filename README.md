@@ -142,7 +142,7 @@ Set
 
 Tuple
 -----
-**Tuple is data structure in python**
+**typles is a data structure in python for convenient data storage**
 ** tuples are found in almost every code**
 ```python
 <tuple> = ()                               # Empty tuple.
